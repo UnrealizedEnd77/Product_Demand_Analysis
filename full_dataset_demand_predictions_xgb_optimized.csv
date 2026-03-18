@@ -1,4 +1,4 @@
-row_index,actual_purchased_last_month,predicted_purchased_last_month,abs_error
+row_index,actual_demand,predicted_demand,abs_error
 0,300.0,293.8871,6.1129150390625
 1,6000.0,6222.7944,222.79443359375
 2,2000.0,2083.586,83.5859375
